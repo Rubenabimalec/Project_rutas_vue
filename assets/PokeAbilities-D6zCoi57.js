@@ -1,0 +1,1 @@
+import{c as e,F as n,r as o,o as t,t as i}from"./index-BdQee1c9.js";const l={class:"space-y-2"},p={__name:"PokeAbilities",props:["pokemon"],setup(s){return(r,c)=>(t(),e("ul",l,[(t(!0),e(n,null,o(s.pokemon.abilities,a=>(t(),e("li",{key:a.ability.name,class:"p-2 bg-blue-50 text-blue-700 rounded-lg capitalize font-medium"},i(a.ability.name),1))),128))]))}};export{p as default};
